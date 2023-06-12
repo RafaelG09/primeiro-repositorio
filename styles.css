@@ -1,10 +1,10 @@
 :root {
-    --branco-principal: #FFFFFF;
-    --cinza-secundario: #C0C0C0;
-    --botao-azul: #167BF7;
+    --branco-principal: #ffffff;
+    --cinza-secundario: #ffffff;
+    --botao-azul: #08da58;
     --cor-de-fundo: #00030C;
     --fonte-principal: 'Inter';
-    --botao-azul-efeito: #3c92fa;
+    --botao-azul-efeito: #ffffff;
 }
 
 body {
@@ -21,8 +21,8 @@ body {
 }
 
 .principal {
-    background-image: url("img/Background.png");
-    background-repeat: no-repeat;
+    background-image: url("spotify.webp");
+    background-repeat: fill;
     background-size: contain;
     align-items: center;
     text-align: center;
